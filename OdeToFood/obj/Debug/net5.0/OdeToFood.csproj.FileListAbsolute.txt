@@ -37,3 +37,4 @@ E:\dev\pluralsight\ASP.NET Core\1-aspnet-core-fundamentals\demos\OdeToFood\OdeTo
 E:\dev\pluralsight\ASP.NET Core\1-aspnet-core-fundamentals\demos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 E:\dev\pluralsight\ASP.NET Core\1-aspnet-core-fundamentals\demos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 E:\dev\pluralsight\ASP.NET Core\1-aspnet-core-fundamentals\demos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.CopyComplete
+E:\dev\pluralsight\ASP.NET Core\1-aspnet-core-fundamentals\demos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\List.cshtml.g.cs
